@@ -20,7 +20,6 @@
     .header_top .header_top_content .logo{
     flex-basis:330px;
     padding: 0px;
-    width: 290px;
     }
     .header_top .header_top_content .header_top_menu{
     /*flex-basis = reserva o que sobrar de tela*/
@@ -51,7 +50,3 @@
     background-color: #d36833;
     color: #fff;
     }
-  
-{
-    
-}
