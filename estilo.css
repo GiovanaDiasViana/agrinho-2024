@@ -6,12 +6,12 @@
     font-size: 1em;
     font-family: 'Ubuntu', sans-serif;
     }
-    
+
     .header_top{
-    background-color: #2d3142;
+    background-color: #016313;
     width: 100%;
     }
-    
+
     .header_top .header_top_content{
     max-width: 1300px;
     margin: 0 auto;
@@ -45,8 +45,30 @@
     height: 100%;
     color: #d36833;
     }
-    
+
     .header_top_menu ul li a:hover{
     background-color: #d36833;
     color: #fff;
     }
+
+section{
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+section h1{
+  margin-left: 20px;
+  font-size: 1.8em;
+}
+section h2{
+  margin-left: 20px;
+  font-size: 1.5em;
+}
+section p{
+  font-size: 1.3em;
+  line-height: 30px;
+  text-align: justify;
+  padding: 20px;
+}
